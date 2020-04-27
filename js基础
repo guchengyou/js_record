@@ -1,1 +1,5 @@
 js6大数据类型 String Number Boolean undefined null object 判断方法：Object.prototype.toString.call(xxx).slice(8, -1).toLowerCase();
+
+js变量提升 提升到各自的作用于顶端，先编译提升，后运行赋值
+
+es6新特性 let、const；模版字符串；解构赋值；箭头函数；扩展运算符；class类支持；
